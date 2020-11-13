@@ -6,7 +6,7 @@
 
 The library LyricsDotCom allows you to: 
 - download the lyric of a song from the website www.lyrics.com
-- translate the lyric to a target language using AWS translate service
+- translate the lyric to a target language using AWS translate service (using an API Gtw and a Lambda functions)
 - create a library of artists and songs
 
 For an example of usage, please refer to the section "Demo".
